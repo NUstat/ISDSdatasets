@@ -1,0 +1,21 @@
+#' The legendary Titanic dataset
+#'
+#' @description
+#' This dataset contains the popular Titanic dataset often used for machine learning.
+#'
+#' @format A tibble with 418 rows and 11 variables:
+#' \describe{
+#'   \item{PassengerId}{Unique passenger Id}
+#'   \item{Survived}{Survival: 0 = No, 1 = Yes} 
+#'   \item{Pclass}{Ticket Class: 	1 = 1st, 2 = 2nd, 3 = 3rd}
+#'   \item{Name}{Date the game was played}
+#'   \item{Sex}{Sex}
+#'   \item{Age}{Age in years}
+#'   \item{SibSp}{Number of siblings/spouses aboard the Titanic}
+#'   \item{Parch}{Number of parents/children aboard the Titanic}
+#'   \item{Ticket}{Ticket number}
+#'   \item{Fare}{Passenger fare}
+#'   \item{Embarked}{Port of embarkation: C = Cherbourg, Q = Queenstown, S = Southampton}
+#' }
+#' @source \url{https://www.kaggle.com/datasets/brendan45774/test-file}
+"titanic"
