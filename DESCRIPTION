@@ -1,15 +1,16 @@
 Package: ISDSdatasets
-Title: What the Package Does (One Line, Title Case)
+Title: Datasets to supplement the Introduction to Statistics and Data Science textbook
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Danielle", "Sass", , "danielle.sass@northwestern.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0001-9755-738X"))
+Description: This package contains various datasets used for practice problems and examples in the Introduction to Statistics and Data Science textbook.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 Depends: 
     R (>= 2.10)
 LazyData: true
+Imports: 
+    tibble
