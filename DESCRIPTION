@@ -4,7 +4,8 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Danielle", "Sass", , "danielle.sass@northwestern.edu", role = c("aut", "cre"),
            comment = c(ORCID = "https://orcid.org/0000-0001-9755-738X"))
-Description: This package contains various datasets used for practice problems and examples in the Introduction to Statistics and Data Science textbook.
+Description: This package contains various datasets used for practice problems and examples in the Introduction to Statistics and Data Science textbook. 
+    Datasets include "covid_states", "nba", and "titanic".
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
