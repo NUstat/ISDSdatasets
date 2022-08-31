@@ -12,6 +12,7 @@ A tibble with 72 rows and 25 variables:
 \item{state_abbr}{State abbreviation}
 \item{state}{State}
 \item{date}{Date in the format Y:m:d}
+\item{wday}{Day of the week}
 \item{new_confirmed}{Daily count of new confirmed COVID cases.}
 \item{new_deceased}{Daily count of COVID related deaths.}
 \item{new_recovered}{Daily count of people recovered from COVID.}
