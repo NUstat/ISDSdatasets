@@ -29,7 +29,7 @@ A tibble with 72 rows and 25 variables:
 covid_states
 }
 \description{
-This dataset contains daily details of COVID cases, deaths, recoveries and tests by
+This dataset contains details of daily COVID cases, deaths, recoveries and tests by
 state in the United States for January 13, 2020 through August 22, 2022.
 }
 \keyword{datasets}
