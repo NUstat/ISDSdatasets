@@ -6,7 +6,7 @@
 \alias{ISDSdatasets-package}
 \title{ISDSdatasets: Datasets to supplement the Introduction to Statistics and Data Science textbook}
 \description{
-This package contains various datasets used for practice problems and examples in the Introduction to Statistics and Data Science textbook.
+This package contains various datasets used for practice problems and examples in the Introduction to Statistics and Data Science textbook. Datasets include "covid_states", "nba", and "titanic".
 }
 \author{
 \strong{Maintainer}: Danielle Sass \email{danielle.sass@northwestern.edu} (\href{https://orcid.org/0000-0001-9755-738X}{ORCID})

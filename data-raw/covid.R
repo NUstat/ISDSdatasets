@@ -1,12 +1,12 @@
 library(tidyverse)
 
-# covid <-
-#   readr::read_csv(
-#     file = "data-raw/covid.csv"
-#   )
-# 
-# 
-# usethis::use_data(covid, overwrite = TRUE)
+covid_dem <-
+  readr::read_csv(
+    file = "data-raw/covid_dem.csv"
+  )
+
+
+usethis::use_data(covid_dem, overwrite = TRUE)
 
 covid_states <-
   readr::read_csv(
