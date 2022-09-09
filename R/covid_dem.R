@@ -27,4 +27,4 @@
 #'   \item{population_age_80_and_older}{Population over 80}
 #' }
 #' @source \url{https://health.google.com/covid-19/open-data/}
-"covid_states"
+"covid_dem"
