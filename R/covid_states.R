@@ -1,4 +1,4 @@
-#' Covid States
+#' State level COVID epidemiology counts
 #'
 #' @description
 #' This dataset contains details of daily COVID cases, deaths, recoveries and tests by 

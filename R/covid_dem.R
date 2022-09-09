@@ -1,21 +1,15 @@
-#' Covid Demographics
+#' State level demographic information during COVID
 #'
 #' @description
 #' This dataset contains details of demographics for each state in the US.
 #' 
 #' 
-#' @format A tibble with 59 rows and 19 variables:
+#' @format A tibble with 59 rows and 13 variables:
 #' \describe{
 #'   \item{location_key}{Unique string identifying the region}
 #'   \item{population}{Population} 
 #'   \item{population_male}{Male population}
 #'   \item{population_female}{Female population}
-#'   \item{population_rural}{Population in rural areas}
-#'   \item{population_urban}{Population in urban areas}
-#'   \item{population_largest_city}{Population in the states largest city.}
-#'   \item{population_clustered}{}
-#'   \item{population_density}{}
-#'   \item{human_development_index}{}
 #'   \item{population_age_00_09}{Population between the ages of 0 and 9}
 #'   \item{population_age_10_19}{Population between the ages of 10 and 19}
 #'   \item{population_age_20_29}{Population between the ages of 20 and 29}

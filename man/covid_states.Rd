@@ -3,7 +3,7 @@
 \docType{data}
 \name{covid_states}
 \alias{covid_states}
-\title{Covid States}
+\title{State level COVID epidemiology counts}
 \format{
 A tibble with 72 rows and 25 variables:
 \describe{
