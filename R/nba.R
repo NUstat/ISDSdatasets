@@ -41,3 +41,14 @@
 #' }
 #' @source \url{https://www.basketball-reference.com/}
 "nba"
+
+
+
+#' A sample of career basketball game data for Michael Jordan, Kobe Bryant, and LeBron James
+#'
+#' @description
+#' This dataset contains a random stratified sample of 100 games of each player
+#' in the nba dataset.
+#'
+
+"nba_sample"
