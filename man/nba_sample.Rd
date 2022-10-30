@@ -14,4 +14,14 @@ nba_sample
 This dataset contains a random stratified sample of 100 games of each player
 in the nba dataset.
 }
+\section{Function ID}{
+
+11-2
+}
+
+\seealso{
+Other datasets: 
+\code{\link{nba}}
+}
+\concept{datasets}
 \keyword{datasets}

@@ -51,4 +51,14 @@ nba
 This dataset contains details of every game over the basketball career
 of three players who are considered to be the greatest of all time.
 }
+\section{Function ID}{
+
+11-1
+}
+
+\seealso{
+Other datasets: 
+\code{\link{nba_sample}}
+}
+\concept{datasets}
 \keyword{datasets}

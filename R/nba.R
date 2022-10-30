@@ -39,8 +39,11 @@
 #'   \item{pts}{Total points the player scored}
 #'   \item{gm_sc}{Game Score: created by John Hollinger to give a rough measure of a player's productivity for a single game. The scale is similar to that of points scored, (40 is an outstanding performance, 10 is an average performance, etc.)}
 #' }
-#' @family datasets
 #' @source \url{https://www.basketball-reference.com/}
+#' 
+#' @family datasets
+#' @section Function ID:
+#' 11-1
 "nba"
 
 
@@ -52,5 +55,7 @@
 #' in the nba dataset.
 #'
 #' @family datasets
+#' @section Function ID:
+#' 11-2
 
 "nba_sample"
