@@ -50,5 +50,6 @@
 #' This dataset contains a random stratified sample of 100 games of each player
 #' in the nba dataset.
 #'
+#' @family datasets
 
 "nba_sample"
